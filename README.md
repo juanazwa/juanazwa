@@ -116,7 +116,7 @@ width="540">
 
 - **Silver Medal** of **Asian Music Games Kuala Lumpur**
 <p align="center">
-    <img src="https://github.com/juanazwa/juanazwa/blob/main/WhatsApp%20Image%202026-08-26%20at%2016.25.19%20(2).jpeg?raw=true" 
+    <img src="https://github.com/juanazwa/juanazwa/blob/9f2fb9b2787585b0220ab9c0ae36346e1bc28eed/malay%201.jpeg?raw=true" 
 width="540">
 </p>
 
