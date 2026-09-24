@@ -114,6 +114,18 @@ width="540">
 width="540">
 </p>
 
+- **Silver Medal** of **Asian Music Games Kuala Lumpur**
+<p align="center">
+    <img src="https://github.com/juanazwa/juanazwa/blob/main/WhatsApp%20Image%202026-08-26%20at%2016.25.19%20(2).jpeg?raw=true" 
+width="540">
+</p>
+
+- **Bronze Medal** of **Asian Music Games Kuala Lumpur**
+<p align="center">
+    <img src="https://github.com/juanazwa/juanazwa/blob/main/WhatsApp%20Image%202026-08-26%20at%2016.25.19%20(2).jpeg?raw=true" 
+width="540">
+</p>
+
 ---
 
 ## **Contact Me:**
@@ -121,5 +133,3 @@ width="540">
 - 📩 IG: [nazwaalisafutri](https://www.instagram.com/nazwaalisafutri?igsi=MW5kZDNpNWY5Y3F6cQ%3D%3D&utm_source=qr)
 
 - 📬 Gmail: juanazwa009@gmail.com
-
-- 💬 Linkedln:.
