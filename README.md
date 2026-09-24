@@ -116,13 +116,13 @@ width="540">
 
 - **Silver Medal** of **Asian Music Games Kuala Lumpur**
 <p align="center">
-    <img src="https://github.com/juanazwa/juanazwa/blob/9f2fb9b2787585b0220ab9c0ae36346e1bc28eed/malay%201.jpeg?raw=true" 
+    <img src="https://github.com/juanazwa/juanazwa/blob/9f2fb9b2787585b0220ab9c0ae36346e1bc28eed/malay%202.jpeg?raw=true" 
 width="540">
 </p>
 
 - **Bronze Medal** of **Asian Music Games Kuala Lumpur**
 <p align="center">
-    <img src="https://github.com/juanazwa/juanazwa/blob/9f2fb9b2787585b0220ab9c0ae36346e1bc28eed/malay%202.jpeg?raw=true" 
+    <img src="https://github.com/juanazwa/juanazwa/blob/9f2fb9b2787585b0220ab9c0ae36346e1bc28eed/malay%201.jpeg?raw=true" 
 width="540">
 </p>
 
